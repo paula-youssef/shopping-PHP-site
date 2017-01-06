@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+list {
+	float: left;
+}
+
+#header img {
+	float: left;
+}
+#connction {
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+}
+#nav {
+	float: right;
+}
+#photoshow {
+	float: right;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+#category {
+	float: left;
+}
+
+
+
+body {
+	background-color: #666;
+}

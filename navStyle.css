@@ -1,0 +1,23 @@
+@charset "utf-8";
+#nav ul li {
+	font-weight: bold;
+	float: right;
+	list-style-type: none;
+	margin-right: 20px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	color: #FFFFFF;
+	background-color: #39F;
+	border-radius: 15px;
+}
+#nav {
+	width: 1024px;
+	float: right;
+	list-style-type: none;
+}
